@@ -31,13 +31,13 @@ body {
 }
 
 a {
-    color: #03a87c;
+    color: #000000;
 }
 
 a:hover,
 a:active,
 a:focus {
-    color: #018f69;
+    color: #cc0000;
 }
 
 .btn,
@@ -63,7 +63,7 @@ a:focus {
 #btn-post-job:active,
 #btn-post-job:focus {
     color: #018f69;
-    border-color: #018f69;
+    border-color: #212121;
 }
 
 .pb-6 {
